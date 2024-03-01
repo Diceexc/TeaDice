@@ -1,0 +1,2 @@
+# TeaDice
+TeaDice Testnet
